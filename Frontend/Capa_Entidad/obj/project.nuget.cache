@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QNq48WmynoQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lab3_pc.LAB3_PC50\\Desktop\\Gestion de combutible\\Gestion de Combustible\\Capa_Entidad\\Capa_Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lab3_pc.LAB3_PC50\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\Lab3_pc.LAB3_PC50\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.16\\microsoft.netcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\Lab3_pc.LAB3_PC50\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

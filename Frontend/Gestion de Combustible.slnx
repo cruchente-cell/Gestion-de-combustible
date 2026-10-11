@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Capa Dato/">
+    <Project Path="Capa_Dato/Capa_Dato.csproj" />
+  </Folder>
+  <Folder Name="/Capa Entidad/">
+    <Project Path="Capa_Entidad/Capa_Entidad.csproj" />
+  </Folder>
+  <Folder Name="/Capa Negocio/">
+    <Project Path="Capa_Negocio/Capa_Negocio.csproj" />
+  </Folder>
+  <Project Path="Gestion de Combustible/Gestion de Combustible.csproj" />
+</Solution>
